@@ -1,12 +1,15 @@
 # func
 
-Run Azure Functions Core Tools ( `func` ) in Docker
+Running Azure Functions Core Tools (`func`) in Docker
 
-This image is rediculous large, about 3.4GB. If you have an idea to reduce its size, let me know.
+This image is ridiculously large, approximately `3.4GB`. If you have any ideas to reduce its size, please let me know.
+
+Link to Docker Hub Repository
 
 https://hub.docker.com/repository/docker/debianlinux/func/general
 
-What's installed?
-* Azure Function Core Tools ( `func` )
-* Azure CLI
-* Dotnet 6.0  (If you need deploy node or others, please fork this repo and replace with the application you need)
+What's Included?
+
+* Azure Functions Core Tools (command `func`)
+* Azure CLI (command `az` )
+* .NET 6.0 (If you need to deploy Node.js or other applications, please fork this repository and replace it with the application you require.)
