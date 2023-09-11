@@ -10,6 +10,6 @@ https://hub.docker.com/repository/docker/debianlinux/func/general
 
 What's Included?
 
-* Azure Functions Core Tools (command `func`)
-* Azure CLI (command `az` )
+* Azure Functions Core Tools ( command `func` )
+* Azure CLI ( command `az` )
 * .NET 6.0 (If you need to deploy Node.js or other applications, please fork this repository and replace it with the application you require.)
