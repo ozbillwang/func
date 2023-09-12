@@ -8,7 +8,7 @@ Link to Docker Hub Repository
 
 https://hub.docker.com/repository/docker/debianlinux/func/general
 
-What's Included?
+### What's Included?
 
 * Azure Functions Core Tools ( command `func` )
 * Azure CLI ( command `az` )
